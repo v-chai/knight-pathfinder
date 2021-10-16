@@ -1,5 +1,4 @@
 require_relative "polytree_node"
-require "byebug"
 
 class KnightPathFinder
     attr_reader :considered_postions
